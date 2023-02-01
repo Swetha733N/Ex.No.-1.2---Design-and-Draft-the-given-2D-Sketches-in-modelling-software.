@@ -33,7 +33,8 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ![WhatsApp Image 2023-02-01 at 18 16 11](https://user-images.githubusercontent.com/122199934/216047975-ec08c158-f1a1-4af1-a248-8b324d60c75c.jpg)
+
 
  ## OUTPUT
 ![Ex2 1 drawing_page-0001 (1)](https://user-images.githubusercontent.com/122199934/211709867-ceffa483-6718-4566-9ea3-74cbbe163e4b.jpg)
